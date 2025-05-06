@@ -46,7 +46,8 @@ class HighlighterPlugin extends Plugin {
         $color = $config->get('highlight_color') ?? 'red';
         
         return <<<EOD
-            (function() {
+            (function() 
+            {
                 // Prevent the script from being executed multiple times
                 if (window.dateHighlightLoaded) return;
                 window.dateHighlightLoaded = true;
@@ -54,30 +55,43 @@ class HighlighterPlugin extends Plugin {
                 // Function to highlight dates
                 function highlightDatesInTickets() {
                     
-                    // Date regex for different formats (DD.MM.YYYY, DD/MM/YYYY, etc.)
-                    var dateRegex = /\b\d{1,2}[./-]\d{1,2}[./-]\d{2,4}\b/;
+                    // Check if we are on the ticket list page
+                    if (!window.location.pathname.includes('/scp/tickets.php')) {
+                        return 0;
+                    }
+                    
+                    
+                    // Extended regex for different date formats
+                    // - DD.MM.YYYY or DD.MM.YY (German format)
+                    // - DD/MM/YYYY or DD/MM/YY (UK format)
+                    // - MM/DD/YYYY or MM/DD/YY (US format)
+                    // - YYYY-MM-DD (ISO format)
+                    var dateRegex = /(\d{1,2}[.]\d{1,2}[.]\d{2,4}|\d{1,2}\/\d{1,2}\/\d{2,4}|\d{4}-\d{1,2}-\d{1,2})/g;
                     
                     // Add CSS rule
                     var style = document.createElement('style');
                     style.textContent = '.date-highlight { color: {$color} !important; font-weight: bold !important; }';
                     document.head.appendChild(style);
                     
-                    // Try different approaches for the ticket list
-                    
-                    // 1. Direct search for elements with dates
-                    var allElements = document.querySelectorAll('a, td, span, div');
+                    // More comprehensive search in the ticket table
+                    // 1. Subject lines in the ticket table
+                    // 2. All links within the ticket table
+                    var subjectCells = document.querySelectorAll('table.list td.subject a, #tickets td.subject a, a[href*="/scp/tickets.php?id="]');
                     
                     var found = 0;
                     
-                    for (var i = 0; i < allElements.length; i++) {
-                        var el = allElements[i];
+                    for (var i = 0; i < subjectCells.length; i++) {
+                        var el = subjectCells[i];
                         
-                        // Check visible elements with text
                         if (el.textContent && 
                             el.textContent.trim().length > 0 && 
                             el.offsetParent !== null) {  // Only visible elements
                             
-                            if (dateRegex.test(el.textContent)) {
+                            var text = el.textContent.trim();s
+                            
+                            // Search for date formats in the text
+                            var match = text.match(dateRegex);
+                            if (match) {
                                 // Mark the element
                                 el.classList.add('date-highlight');
                                 el.style.setProperty('color', '{$color}', 'important');
@@ -88,26 +102,7 @@ class HighlighterPlugin extends Plugin {
                         }
                     }
                     
-                    // 2. Try: Focus on the ticket table
-                    var ticketLinks = document.querySelectorAll('table.list a, table#tickets a, td.subject a');
-                    
-                    var tableFound = 0;
-                    
-                    for (var j = 0; j < ticketLinks.length; j++) {
-                        var link = ticketLinks[j];
-                        
-                        if (dateRegex.test(link.textContent)) {
-                            // Mark the link
-                            link.classList.add('date-highlight');
-                            link.style.setProperty('color', '{$color}', 'important');
-                            link.style.setProperty('font-weight', 'bold', 'important');
-                            
-                            tableFound++;
-                        }
-                    }
-                    
-                    // Report statistics
-                    return found + tableFound;
+                    return found;
                 }
                 
                 // Main code
@@ -116,19 +111,13 @@ class HighlighterPlugin extends Plugin {
                     setTimeout(function() {
                         var count = highlightDatesInTickets();
                         
-                        // Show the result
-                        if (count === 0) 
-                        {
-                            // Analyze the HTML structure and output it
-                            var tables = document.querySelectorAll('table');
-                            
-                            for (var i = 0; i < Math.min(tables.length, 3); i++) {
-                                var table = tables[i];
-                            }
+                        // Log information (only for debugging)
+                        if (count === 0 && window.location.pathname.includes('/scp/tickets.php')) {
+                            console.log("Highlighter-Plugin: No date values found in subject lines");
                         }
                     }, 500);
                     
-                    // Check every 5 seconds for dynamic content
+                    // Regular check for dynamically loaded content
                     setInterval(highlightDatesInTickets, 5000);
                 }
                 
