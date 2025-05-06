@@ -145,3 +145,882 @@
 [2025-05-06 10:19:08] Direkte JavaScript-PHP-Datei wurde erstellt
 [2025-05-06 10:19:08] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
 [2025-05-06 10:19:08] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 10:23:29] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:23:29] JavaScript-Datei wurde exportiert
+[2025-05-06 10:23:29] Registriere Script über Signal-Mechanismus
+[2025-05-06 10:23:29] init() wurde abgeschlossen. Script wurde eingebunden.
+[2025-05-06 10:23:30] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:23:30] JavaScript-Datei wurde exportiert
+[2025-05-06 10:23:30] Registriere Script über Signal-Mechanismus
+[2025-05-06 10:23:30] init() wurde abgeschlossen. Script wurde eingebunden.
+[2025-05-06 10:23:30] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:23:30] JavaScript-Datei wurde exportiert
+[2025-05-06 10:23:30] Registriere Script über Signal-Mechanismus
+[2025-05-06 10:23:30] init() wurde abgeschlossen. Script wurde eingebunden.
+[2025-05-06 10:23:31] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:23:31] JavaScript-Datei wurde exportiert
+[2025-05-06 10:23:31] Registriere Script über Signal-Mechanismus
+[2025-05-06 10:23:31] init() wurde abgeschlossen. Script wurde eingebunden.
+[2025-05-06 10:24:03] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:24:03] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:24:03] JavaScript-Datei wurde exportiert
+[2025-05-06 10:24:03] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 10:24:03] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 10:24:03] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 10:24:03] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 10:24:03] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 10:24:03] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 10:24:03] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 10:24:04] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:24:04] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:24:04] JavaScript-Datei wurde exportiert
+[2025-05-06 10:24:04] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 10:24:04] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 10:24:04] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 10:24:04] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 10:24:04] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 10:24:04] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:24:04] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:24:04] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 10:24:04] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 10:24:04] JavaScript-Datei wurde exportiert
+[2025-05-06 10:24:04] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 10:24:04] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 10:24:04] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 10:24:04] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 10:24:04] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 10:24:04] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 10:24:04] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 10:24:10] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:24:10] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:24:10] JavaScript-Datei wurde exportiert
+[2025-05-06 10:24:10] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 10:24:10] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 10:24:10] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 10:24:10] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 10:24:10] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 10:24:10] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 10:24:10] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:01:08] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:01:08] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:01:08] JavaScript-Datei wurde exportiert
+[2025-05-06 11:01:08] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:01:08] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:01:08] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:01:08] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:01:08] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:01:08] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:01:08] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:01:11] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:01:11] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:01:11] JavaScript-Datei wurde exportiert
+[2025-05-06 11:01:11] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:01:11] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:01:11] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:01:11] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:01:11] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:01:11] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:01:11] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:01:11] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:01:11] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:01:11] JavaScript-Datei wurde exportiert
+[2025-05-06 11:01:11] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:01:11] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:01:11] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:01:11] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:01:11] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:01:11] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:01:11] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:01:12] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:01:12] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:01:12] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:01:12] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:01:12] JavaScript-Datei wurde exportiert
+[2025-05-06 11:01:12] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:01:12] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:01:12] JavaScript-Datei wurde exportiert
+[2025-05-06 11:01:12] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:01:12] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:01:12] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:01:12] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:01:12] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:01:12] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:01:12] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:01:12] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:01:12] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:01:12] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:01:12] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:01:12] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:01:13] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:01:13] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:01:13] JavaScript-Datei wurde exportiert
+[2025-05-06 11:01:13] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:01:13] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:01:13] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:01:13] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:01:14] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:01:14] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:01:14] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:01:14] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:01:14] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:01:14] JavaScript-Datei wurde exportiert
+[2025-05-06 11:01:14] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:01:14] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:01:14] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:01:14] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:01:14] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:01:14] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:01:14] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:01:23] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:01:23] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:01:23] JavaScript-Datei wurde exportiert
+[2025-05-06 11:01:23] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:01:23] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:01:23] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:01:23] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:01:23] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:01:23] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:01:23] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:01:23] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:01:23] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:01:23] JavaScript-Datei wurde exportiert
+[2025-05-06 11:01:23] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:01:23] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:01:23] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:01:23] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:01:23] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:01:23] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:01:23] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:17] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:17] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:17] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:17] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:17] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:17] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:17] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:17] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:17] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:17] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:18] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:18] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:18] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:18] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:18] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:18] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:18] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:18] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:18] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:18] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:22] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:22] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:22] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:22] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:22] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:22] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:22] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:22] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:22] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:22] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:22] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:22] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:22] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:22] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:22] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:22] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:22] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:22] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:22] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:22] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:41] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:41] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:41] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:41] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:41] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:41] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:41] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:41] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:41] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:41] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:41] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:41] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:41] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:41] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:41] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:41] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:41] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:41] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:41] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:41] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:49] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:49] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:49] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:49] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:49] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:49] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:49] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:49] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:49] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:49] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:50] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:50] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:50] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:50] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:50] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:50] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:50] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:50] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:50] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:50] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:50] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:50] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:50] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:50] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:50] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:50] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:50] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:50] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:50] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:50] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:50] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:50] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:50] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:50] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:50] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:50] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:50] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:50] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:50] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:50] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:55] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:55] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:55] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:55] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:55] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:55] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:55] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:55] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:55] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:55] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:56] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:56] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:56] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:56] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:56] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:56] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:56] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:56] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:56] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:56] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:56] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:56] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:56] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:56] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:56] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:56] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:56] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:56] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:59] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:59] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:59] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:59] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:59] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:59] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:59] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:59] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:59] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:59] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:04:59] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:04:59] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:04:59] JavaScript-Datei wurde exportiert
+[2025-05-06 11:04:59] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:04:59] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:04:59] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:04:59] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:04:59] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:04:59] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:04:59] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:02] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:02] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:02] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:02] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:02] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:02] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:02] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:02] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:02] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:02] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:03] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:03] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:03] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:03] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:03] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:03] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:03] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:03] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:03] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:03] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:05] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:05] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:05] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:05] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:05] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:05] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:05] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:05] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:05] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:05] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:05] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:05] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:05] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:05] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:05] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:05] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:05] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:05] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:05] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:05] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:05] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:05] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:05] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:05] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:05] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:05] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:05] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:05] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:05] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:13] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:13] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:13] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:13] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:13] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:13] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:13] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:13] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:13] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:13] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:13] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:13] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:13] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:13] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:13] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:13] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:13] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:13] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:13] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:13] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:16] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:16] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:16] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:16] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:16] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:16] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:16] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:16] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:16] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:16] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:16] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:16] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:16] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:16] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:16] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:16] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:16] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:16] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:16] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:16] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:46] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:46] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:46] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:46] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:46] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:46] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:46] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:46] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:46] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:46] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:46] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:46] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:46] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:46] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:46] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:46] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:46] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:46] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:46] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:46] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:48] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:49] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:49] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:49] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:49] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:49] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:49] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:49] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:49] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:49] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:49] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:49] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:49] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:49] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:49] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:49] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:49] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:49] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:49] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:49] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:53] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:53] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:53] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:53] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:53] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:53] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:53] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:53] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:53] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:53] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:54] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:54] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:54] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:54] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:54] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:54] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:54] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:54] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:54] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:54] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:05:59] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:05:59] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:05:59] JavaScript-Datei wurde exportiert
+[2025-05-06 11:05:59] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:05:59] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:05:59] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:05:59] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:05:59] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:05:59] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:05:59] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:06:00] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:06:00] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:06:00] JavaScript-Datei wurde exportiert
+[2025-05-06 11:06:00] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:06:00] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:06:00] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:06:00] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:06:00] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:06:00] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:06:00] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:06:02] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:06:02] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:06:02] JavaScript-Datei wurde exportiert
+[2025-05-06 11:06:02] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:06:02] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:06:02] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:06:02] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:06:02] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:06:02] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:06:02] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:06:49] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:06:49] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:06:49] JavaScript-Datei wurde exportiert
+[2025-05-06 11:06:49] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:06:49] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:06:49] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:06:49] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:06:49] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:06:49] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:06:49] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:06:49] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:06:49] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:06:49] JavaScript-Datei wurde exportiert
+[2025-05-06 11:06:49] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:06:49] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:06:49] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:06:49] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:06:49] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:06:49] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:06:49] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:06:59] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:06:59] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:06:59] JavaScript-Datei wurde exportiert
+[2025-05-06 11:06:59] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:06:59] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:06:59] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:06:59] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:06:59] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:06:59] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:06:59] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:06:59] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:06:59] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:06:59] JavaScript-Datei wurde exportiert
+[2025-05-06 11:06:59] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:06:59] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:06:59] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:06:59] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:06:59] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:06:59] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:06:59] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:28] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:28] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:28] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:28] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:28] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:28] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:28] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:28] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:28] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:28] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:28] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:28] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:29] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:29] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:29] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:29] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:29] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:29] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:29] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:29] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:32] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:32] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:32] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:32] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:32] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:32] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:32] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:32] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:32] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:32] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:32] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:32] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:32] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:32] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:32] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:32] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:32] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:32] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:32] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:32] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:34] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:34] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:34] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:34] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:34] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:34] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:34] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:34] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:34] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:34] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:34] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:34] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:34] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:34] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:34] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:34] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:34] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:34] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:34] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:34] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:36] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:36] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:36] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:36] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:36] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:36] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:36] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:36] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:36] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:36] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:37] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:37] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:37] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:37] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:37] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:37] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:37] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:37] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:37] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:37] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:37] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:37] Direkte JavaScript-PHP-Datei wurde erstellt
+sticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:37] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:37] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:37] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:37] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:37] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:37] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:37] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:40] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:40] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:40] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:40] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:40] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:40] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:40] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:40] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:40] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:40] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:42] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:42] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:42] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:42] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:42] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:42] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:42] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:42] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:42] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:42] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:42] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:42] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:42] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:42] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:42] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:42] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:42] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:42] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:42] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:42] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:48] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:48] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:48] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:48] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:48] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:48] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:48] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:48] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:48] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:48] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:50] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:50] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:50] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:50] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:50] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:50] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:50] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:50] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:50] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:50] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:52] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:52] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:52] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:52] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:52] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:52] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:52] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:52] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:52] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:52] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:52] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:52] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:52] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:52] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:52] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:52] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:52] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:52] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:52] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:52] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:07:55] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:07:55] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:07:55] JavaScript-Datei wurde exportiert
+[2025-05-06 11:07:55] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:07:55] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:07:55] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:07:55] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:07:55] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:07:55] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:07:55] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:00] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:00] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:00] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:00] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:00] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:00] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:00] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:00] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:00] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:00] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:03] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:03] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:03] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:03] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:03] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:03] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:03] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:03] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:03] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:03] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:03] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:03] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:03] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:03] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:03] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:04] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:04] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:04] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:04] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:04] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:08] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:08] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:08] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:08] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:08] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:08] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:08] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:08] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:08] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:08] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:08] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:08] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:08] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:08] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:08] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:08] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:08] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:08] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:08] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:08] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:31] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:31] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:31] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:31] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:31] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:31] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:31] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:31] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:31] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:31] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:31] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:31] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:31] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:31] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:31] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:31] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:31] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:31] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:31] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:31] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:32] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:32] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:32] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:32] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:32] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:32] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:32] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:32] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:32] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:32] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:32] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:32] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:32] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:32] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:32] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:32] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:32] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:32] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:32] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:32] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:34] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:34] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:34] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:34] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:34] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:34] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:35] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:35] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:35] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:35] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:35] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:35] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:35] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:35] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:35] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:35] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:35] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:35] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:35] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:35] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:35] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:35] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:35] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:35] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:35] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:35] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:35] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:35] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:35] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:35] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:08:36] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:08:36] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:08:36] JavaScript-Datei wurde exportiert
+[2025-05-06 11:08:36] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:08:36] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:08:36] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:08:36] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:08:36] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:08:36] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:08:36] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:11:36] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:11:36] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:11:36] JavaScript-Datei wurde exportiert
+[2025-05-06 11:11:36] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:11:36] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:11:36] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:11:36] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:11:36] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:11:36] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:11:36] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:11:37] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:11:37] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:11:37] JavaScript-Datei wurde exportiert
+[2025-05-06 11:11:37] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:11:37] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:11:37] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:11:37] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:11:37] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:11:37] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:11:37] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:11:37] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 11:11:37] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:11:37] JavaScript-Datei wurde exportiert
+[2025-05-06 11:11:37] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 11:11:37] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 11:11:37] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 11:11:37] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 11:11:37] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 11:11:37] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 11:11:37] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 11:13:59] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:00] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:00] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:00] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:44] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:51] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:51] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:51] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:53] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:56] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:14:57] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:15:07] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:16:11] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:16:14] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:16:15] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:17:05] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:17:06] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:17:33] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:17:33] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:17:33] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:17:34] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:18:16] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:18:16] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:18:16] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:18:17] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:19:47] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:19:48] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:19:48] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:21:00] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:21:01] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:21:01] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:21:01] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:22:54] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:22:55] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:22:55] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 11:23:55] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js

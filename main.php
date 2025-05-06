@@ -5,25 +5,32 @@ require_once('config.php');
 class DatumHervorhebungPlugin extends Plugin {
     var $config_class = 'DatumHervorhebungConfig';
 
-    // Diese Debug-Funktion ist optional und kann für Fehlerbehebung verwendet werden
-    private function debug_log($message) {
+    /**
+     * Function to log messages in the debug.log file
+     *
+     * @param string $message
+     * @return void
+     */
+    private function debug_log(string $message) {
         $logfile = __DIR__ . '/debug.log';
         $timestamp = date('Y-m-d H:i:s');
         file_put_contents($logfile, "[$timestamp] $message\n", FILE_APPEND);
     }
 
-    // init() wird von osTicket automatisch aufgerufen
+    /**
+     * osTicket function
+     *
+     * @return void
+     */
     function init() {
-        // Elternmethode aufrufen
         parent::init();
-
-        // Debug-Meldung
-        $this->debug_log('DatumHervorhebung Plugin init() wurde aufgerufen');
-        
+        /*
         // DIREKTE METHODE 1: Exportiere JavaScript-Datei
         $jsFile = dirname(dirname(dirname(__DIR__))) . '/js/datumhervorhebung.js';
         $this->debug_log("Exportiere JavaScript-Datei nach: $jsFile");
+        */
         
+        /*
         // JavaScript-Code direkt mit allen nötigen Funktionen
         $jsContent = $this->getPlainJavaScript();
         file_put_contents($jsFile, $jsContent);
@@ -105,13 +112,18 @@ header("Content-Type: application/javascript");
         
         // Zusätzlicher Debug-Info
         $this->debug_log('init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.');
+
+        */
     }
     
+    /*
     // JavaScript-Code ohne PHP-Tags als separate Methode
     private function getPlainJavaScript() {
         // Konfiguration abrufen
         $config = $this->getConfig();
         $color = $config->get('highlight_color') ?: 'red';
+        
+
         
         // JavaScript-Code ohne PHP-Tags
         return <<<EOD
@@ -292,13 +304,16 @@ header("Content-Type: application/javascript");
 })();
 EOD;
     }
-    
+  /*
+    /*
     // JavaScript-Code als Methode, damit er an verschiedenen Stellen verwendet werden kann
     private function getJavaScript() {
         // JavaScript-Code (integrierte Version)
         return '<script type="text/javascript">' . $this->getPlainJavaScript() . '</script>';
     }
+*/
 
+/*
     // enable() wird aufgerufen, wenn das Plugin aktiviert wird
     function enable() {
         $this->debug_log('DatumHervorhebung Plugin wurde aktiviert');
@@ -310,7 +325,9 @@ EOD;
         
         return parent::enable();
     }
-    
+    */
+
+    /*
     // disable() wird aufgerufen, wenn das Plugin deaktiviert wird
     function disable() {
         $this->debug_log('DatumHervorhebung Plugin wird deaktiviert');
@@ -329,5 +346,6 @@ EOD;
         
         return parent::disable();
     }
+        */
 }
 ?> 
