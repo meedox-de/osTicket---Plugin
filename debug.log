@@ -1,11 +1,67 @@
-[2025-05-06 09:54:50] DatumHervorhebung Plugin wurde aktiviert
-[2025-05-06 09:54:51] DatumHervorhebung Plugin init() wurde aufgerufen
-[2025-05-06 09:54:54] DatumHervorhebung Plugin init() wurde aufgerufen
-[2025-05-06 09:54:54] DatumHervorhebung Plugin init() wurde aufgerufen
-[2025-05-06 09:54:59] DatumHervorhebung Plugin init() wurde aufgerufen
-[2025-05-06 09:54:59] DatumHervorhebung Plugin init() wurde aufgerufen
-[2025-05-06 09:54:59] DatumHervorhebung Plugin init() wurde aufgerufen
-[2025-05-06 09:55:00] DatumHervorhebung Plugin init() wurde aufgerufen
-[2025-05-06 09:55:16] DatumHervorhebung Plugin init() wurde aufgerufen
-[2025-05-06 09:55:17] DatumHervorhebung Plugin init() wurde aufgerufen
-[2025-05-06 09:55:17] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:05:47] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:05:47] $ost ist nicht verfügbar oder hat keine addExtraHeader-Methode
+[2025-05-06 10:05:47] Versuche Signal: html:header
+[2025-05-06 10:05:47] Versuche Signal: scp.header
+[2025-05-06 10:05:47] Versuche Signal: scp.footer
+[2025-05-06 10:05:47] Versuche Signal: html:footer
+[2025-05-06 10:05:47] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:05:47] JavaScript-Datei wurde exportiert
+[2025-05-06 10:05:47] init() wurde abgeschlossen. Plugins-Verzeichnis: C:\xampp\htdocs\osticket\include\plugins\plugin
+[2025-05-06 10:05:48] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:05:48] $ost ist nicht verfügbar oder hat keine addExtraHeader-Methode
+[2025-05-06 10:05:48] Versuche Signal: html:header
+[2025-05-06 10:05:48] Versuche Signal: scp.header
+[2025-05-06 10:05:48] Versuche Signal: scp.footer
+[2025-05-06 10:05:48] Versuche Signal: html:footer
+[2025-05-06 10:05:48] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:05:48] JavaScript-Datei wurde exportiert
+[2025-05-06 10:05:48] init() wurde abgeschlossen. Plugins-Verzeichnis: C:\xampp\htdocs\osticket\include\plugins\plugin
+[2025-05-06 10:05:49] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:05:49] $ost ist nicht verfügbar oder hat keine addExtraHeader-Methode
+[2025-05-06 10:05:49] Versuche Signal: html:header
+[2025-05-06 10:05:49] Versuche Signal: scp.header
+[2025-05-06 10:05:49] Versuche Signal: scp.footer
+[2025-05-06 10:05:49] Versuche Signal: html:footer
+[2025-05-06 10:05:49] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:05:49] JavaScript-Datei wurde exportiert
+[2025-05-06 10:05:49] init() wurde abgeschlossen. Plugins-Verzeichnis: C:\xampp\htdocs\osticket\include\plugins\plugin
+[2025-05-06 10:05:49] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:05:49] $ost ist nicht verfügbar oder hat keine addExtraHeader-Methode
+[2025-05-06 10:05:49] Versuche Signal: html:header
+[2025-05-06 10:05:49] Versuche Signal: scp.header
+[2025-05-06 10:05:49] Versuche Signal: scp.footer
+[2025-05-06 10:05:49] Versuche Signal: html:footer
+[2025-05-06 10:05:49] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:05:49] JavaScript-Datei wurde exportiert
+[2025-05-06 10:05:49] init() wurde abgeschlossen. Plugins-Verzeichnis: C:\xampp\htdocs\osticket\include\plugins\plugin
+[2025-05-06 10:15:13] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:15:13] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:15:14] JavaScript-Datei wurde exportiert
+[2025-05-06 10:15:14] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 10:15:14] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 10:15:14] Backup der Header-Datei erstellt: C:/xampp/htdocs/osticket/include/staff/header.inc.php.bak
+[2025-05-06 10:15:14] Script-Tag wurde zur Header-Datei hinzugefügt
+[2025-05-06 10:15:14] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 10:15:14] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 10:15:14] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 10:15:14] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 10:15:14] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:15:14] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:15:14] JavaScript-Datei wurde exportiert
+[2025-05-06 10:15:14] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 10:15:14] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 10:15:14] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 10:15:14] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 10:15:14] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 10:15:14] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 10:15:14] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
+[2025-05-06 10:15:14] DatumHervorhebung Plugin init() wurde aufgerufen
+[2025-05-06 10:15:14] Exportiere JavaScript-Datei nach: C:\xampp\htdocs\osticket/js/datumhervorhebung.js
+[2025-05-06 10:15:14] JavaScript-Datei wurde exportiert
+[2025-05-06 10:15:14] Session-Marker für Plugin wurde gesetzt
+[2025-05-06 10:15:14] Versuche, JS-Einbindung in C:/xampp/htdocs/osticket/include/staff/header.inc.php hinzuzufügen
+[2025-05-06 10:15:14] Script ist bereits in der Header-Datei enthalten
+[2025-05-06 10:15:14] Erstelle direkte JavaScript-PHP-Datei: C:\xampp\htdocs\osticket/datumhervorhebung-direkt.js.php
+[2025-05-06 10:15:14] Direkte JavaScript-PHP-Datei wurde erstellt
+[2025-05-06 10:15:14] Format-Klasse gefunden, versuche Format::add_callback zu verwenden
+[2025-05-06 10:15:14] init() wurde abgeschlossen. Script wurde auf mehreren Wegen eingebunden.
