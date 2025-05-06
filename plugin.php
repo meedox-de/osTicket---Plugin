@@ -1,18 +1,11 @@
 <?php
-
-/**
- * Plugin: DatumBetreffHervorhebung
- * Version: 1.0
- * Autor: Claude AI
- * Beschreibung: Färbt den Betreff in der Agenten-Ticketübersicht rot, wenn ein Datum enthalten ist.
- */
-
 return array(
-    'id' => 'datum_betreff_hervorhebung',
-    'version' => '1.0',
-    'name' => 'Datum Betreff Hervorhebung',
+    'id' => 'tickets:datumhervorhebung',
+    'version' => '0.2',
+    'name' => 'Datum Hervorhebung',
     'author' => 'Claude AI',
-    'description' => 'Färbt den Betreff in der Agenten-Ticketübersicht rot, wenn ein Datum im Betreff enthalten ist.',
-    'url' => '',
-    'plugin' => 'DatumBetreffHervorhebung.php'
-); 
+    'description' => 'Hebt Datumsangaben in Ticketbetreffen für Agenten rot hervor.',
+    'url' => 'https://example.com',
+    'plugin' => 'main.php:DatumHervorhebungPlugin',
+);
+?> 

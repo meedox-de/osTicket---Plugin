@@ -1,40 +1,39 @@
-# Datum Betreff Hervorhebung Plugin für osTicket 1.18
+# Datum Hervorhebung Plugin für osTicket
 
-Dieses Plugin für osTicket 1.18 färbt den Betreff in der Agenten-Ticketübersicht rot, wenn ein Datum im Betreff enthalten ist.
+Dieses Plugin hebt Datumsangaben in Ticketbetreffen in der Agenten-Ansicht rot hervor.
 
 ## Funktionen
 
-- Erkennt automatisch Datumsformate im Betreff (DD.MM.YYYY, YYYY-MM-DD, DD/MM/YYYY, etc.)
-- Hebt Tickets mit Datum im Betreff durch rote Schriftfarbe hervor
-- Macht solche Tickets für Agenten sofort erkennbar
+- Hebt Ticketbetreffzeilen, die ein Datum enthalten (z.B. 12.05.2025, 5/12/2023) in der gewählten Farbe hervor
+- Funktioniert sowohl in der Ticketliste als auch in der Detailansicht
+- Anpassbare Hervorhebungsfarbe (Rot, Blau, Grün, Orange)
 
 ## Installation
 
-1. Laden Sie die Plugin-Dateien herunter
-2. Entpacken Sie die Dateien in das Verzeichnis `/include/plugins/datum_betreff_hervorhebung/` Ihrer osTicket-Installation
-3. Melden Sie sich im Admin-Panel an
-4. Gehen Sie zu "Verwalten" > "Plugins"
-5. Klicken Sie auf "Neues Plugin hinzufügen"
-6. Wählen Sie "Datum Betreff Hervorhebung" aus der Liste aus
-7. Klicken Sie auf "Installieren"
-8. Aktivieren Sie das Plugin
+1. Laden Sie das Plugin-Verzeichnis in den `/include/plugins/` Ordner Ihrer osTicket-Installation hoch
+2. Melden Sie sich im Admin-Panel an
+3. Gehen Sie zu: Admin-Panel → Verwaltung → Plugins
+4. Klicken Sie auf "Neues Plugin hinzufügen"
+5. Wählen Sie "Dateisystem durchsuchen" und navigieren Sie zu `/include/plugins/plugin`
+6. Installieren und aktivieren Sie das Plugin
 
-## Unterstützte Datumsformate
+## Konfiguration
 
-Das Plugin erkennt folgende Datumsformate:
-- DD.MM.YYYY (z.B. 31.12.2023)
-- DD-MM-YYYY (z.B. 31-12-2023)
-- DD/MM/YYYY (z.B. 31/12/2023)
-- YYYY-MM-DD (z.B. 2023-12-31)
-- YYYY/MM/DD (z.B. 2023/12/31)
-- Und Variationen mit ein- oder zweistelligen Tag/Monat und zwei- oder vierstelligen Jahreszahlen
+Nach der Installation können Sie die Hervorhebungsfarbe im Plugin-Konfigurationsmenü anpassen:
+
+1. Gehen Sie zu: Admin-Panel → Verwaltung → Plugins
+2. Klicken Sie auf das Einstellungssymbol neben "Datum Hervorhebung"
+3. Wählen Sie die gewünschte Farbe aus dem Dropdown-Menü
+4. Speichern Sie die Einstellungen
+
+## Hinweise zur Fehlersuche
+
+Das Plugin erstellt Debugging-Informationen in der Datei `debug.log` im Plugin-Verzeichnis. 
+Zusätzlich werden Informationen in der Browser-Konsole (F12) ausgegeben.
+
+Ein gelbes Informationsfeld erscheint kurz nach dem Laden der Seite, wenn das Plugin aktiv ist.
 
 ## Anforderungen
 
-- osTicket 1.18
-- PHP 8.0 oder höher
-- jQuery (wird standardmäßig mit osTicket mitgeliefert)
-
-## Lizenz
-
-Dieses Plugin ist unter der MIT-Lizenz veröffentlicht. 
+- osTicket 1.10 oder höher
+- Modernes Browser mit JavaScript-Unterstützung 

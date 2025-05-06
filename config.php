@@ -1,31 +1,30 @@
 <?php
+require_once(INCLUDE_DIR.'class.plugin.php');
 
-require_once INCLUDE_DIR . 'class.plugin.php';
-require_once INCLUDE_DIR . 'class.forms.php';
-
-/**
- * Konfigurationsklasse für das DatumBetreffHervorhebung Plugin
- */
-class DatumBetreffHervorhebungConfig extends PluginConfig {
-    /**
-     * Konfigurationsoptionen für das Plugin
-     */
+class DatumHervorhebungConfig extends PluginConfig {
+    
+    // Konfigurationsoptionen für das Plugin
     function getOptions() {
         return array(
-            'aktiviert' => new BooleanField(array(
-                'label' => 'Plugin aktiviert',
+            'enabled' => new BooleanField(array(
+                'label' => 'Plugin aktivieren',
                 'default' => true,
                 'configuration' => array(
-                    'desc' => 'Aktiviert oder deaktiviert das Plugin'
-                )
+                    'desc' => 'Aktiviert oder deaktiviert dieses Plugin')
+            )),
+            'highlight_color' => new ChoiceField(array(
+                'label' => 'Hervorhebungsfarbe',
+                'choices' => array(
+                    'red' => 'Rot',
+                    'blue' => 'Blau',
+                    'green' => 'Grün',
+                    'orange' => 'Orange'
+                ),
+                'default' => 'red',
+                'configuration' => array(
+                    'desc' => 'Die Farbe, mit der Datumsangaben hervorgehoben werden')
             )),
         );
     }
-
-    /**
-     * Prüfung vor dem Speichern der Konfiguration
-     */
-    function pre_save(&$config, &$errors) {
-        return true;
-    }
-} 
+}
+?> 
