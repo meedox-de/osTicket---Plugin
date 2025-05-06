@@ -50,59 +50,7 @@ class HighlighterPlugin extends Plugin {
                 // Prevent the script from being executed multiple times
                 if (window.dateHighlightLoaded) return;
                 window.dateHighlightLoaded = true;
-                              
-                // Show the debug element
-                function showDebugInfo() {
-                    var debugDiv = document.createElement('div');
-                    debugDiv.id = 'date-highlight-panel';
-                    debugDiv.style.position = 'fixed';
-                    debugDiv.style.bottom = '10px';
-                    debugDiv.style.right = '10px';
-                    debugDiv.style.backgroundColor = 'yellow';
-                    debugDiv.style.border = '2px solid red';
-                    debugDiv.style.padding = '10px';
-                    debugDiv.style.zIndex = '9999';
-                    debugDiv.style.fontFamily = 'monospace';
-                    debugDiv.style.fontSize = '12px';
-                    debugDiv.style.color = 'black';
-                    debugDiv.innerHTML = '<strong>Datum Highlight aktiv</strong><div id="date-highlight-log"></div>';
-                    document.body.appendChild(debugDiv);
-                    
-                    // Close button
-                    var closeButton = document.createElement('button');
-                    closeButton.innerHTML = 'X';
-                    closeButton.style.position = 'absolute';
-                    closeButton.style.top = '2px';
-                    closeButton.style.right = '2px';
-                    closeButton.style.backgroundColor = 'red';
-                    closeButton.style.color = 'white';
-                    closeButton.style.border = 'none';
-                    closeButton.style.borderRadius = '50%';
-                    closeButton.style.width = '20px';
-                    closeButton.style.height = '20px';
-                    closeButton.style.fontSize = '12px';
-                    closeButton.style.cursor = 'pointer';
-                    closeButton.onclick = function() {
-                        debugDiv.style.display = 'none';
-                    };
-                    debugDiv.appendChild(closeButton);
-                    
-                    return debugDiv;
-                }
-                
-                // Helper function to add messages to the debug panel
-                function addDebugMessage(message) {
-                    var logDiv = document.getElementById('date-highlight-log');
-                    if (!logDiv) return;
-                    
-                    var entry = document.createElement('div');
-                    entry.textContent = message;
-                    entry.style.borderBottom = '1px dotted #ccc';
-                    entry.style.paddingBottom = '2px';
-                    entry.style.marginBottom = '2px';
-                    logDiv.appendChild(entry);
-                }
-                
+                           
                 // Function to highlight dates
                 function highlightDatesInTickets() {
                     
@@ -135,11 +83,7 @@ class HighlighterPlugin extends Plugin {
                                 el.style.setProperty('color', '{$color}', 'important');
                                 el.style.setProperty('font-weight', 'bold', 'important');
                                 
-                                // Debug info
                                 found++;
-                                if (found <= 10) { // Maximal 10 elements
-                                    addDebugMessage(el.tagName + ": " + el.textContent.trim().substring(0, 50));
-                                }
                             }
                         }
                     }
@@ -163,34 +107,23 @@ class HighlighterPlugin extends Plugin {
                     }
                     
                     // Report statistics
-                    var total = found + tableFound;
-                    addDebugMessage("Highlighted: " + total + " elements");
-                    
-                    return total;
+                    return found + tableFound;
                 }
                 
                 // Main code
                 function init() {
-                    // Show the debug panel
-                    var debugPanel = showDebugInfo();
-                    
                     // Highlight tickets
                     setTimeout(function() {
                         var count = highlightDatesInTickets();
                         
                         // Show the result
-                        if (count === 0) {
-                            addDebugMessage("PROBLEM: No elements found!");
-                            
+                        if (count === 0) 
+                        {
                             // Analyze the HTML structure and output it
                             var tables = document.querySelectorAll('table');
-                            addDebugMessage("Tables found: " + tables.length);
                             
                             for (var i = 0; i < Math.min(tables.length, 3); i++) {
                                 var table = tables[i];
-                                addDebugMessage("Tabelle #" + i + ": " + 
-                                            (table.id ? "ID="+table.id : "") + 
-                                            (table.className ? " Class="+table.className : ""));
                             }
                         }
                     }, 500);
