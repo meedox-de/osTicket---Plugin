@@ -1,9 +1,9 @@
 <?php
 require_once(INCLUDE_DIR.'class.plugin.php');
 
-class DatumHervorhebungConfig extends PluginConfig {
+class HighlighterConfig extends PluginConfig {
     
-    // Konfigurationsoptionen für das Plugin
+    // Configuration options for the plugin
     function getOptions() {
         return array(
             'enabled' => new BooleanField(array(

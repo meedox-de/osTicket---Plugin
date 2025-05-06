@@ -1,9 +1,13 @@
 <?php
+
 require_once(INCLUDE_DIR.'class.plugin.php');
 require_once('config.php');
 
-class DatumHervorhebungPlugin extends Plugin {
-    var $config_class = 'DatumHervorhebungConfig';
+/**
+ * Highlighter Plugin
+ */
+class HighlighterPlugin extends Plugin {
+    var $config_class = 'HighlighterConfig';
 
     /**
      * Function to log messages in the debug.log file
@@ -31,23 +35,26 @@ class DatumHervorhebungPlugin extends Plugin {
     }
     
     
-    // JavaScript-Code ohne PHP-Tags als separate Methode
-    private function getPlainJavaScript() {
+    /**
+     * Get the plain javascript code
+     *
+     * @return string
+     */
+    private function getPlainJavaScript():string
+    {
         $config = $this->getConfig();
         $color = $config->get('highlight_color') ?? 'red';
         
-        // JavaScript-Code ohne PHP-Tags
         return <<<EOD
-            // Datum Hervorhebung Plugin
             (function() {
-                // Verhindern, dass das Script mehrfach ausgeführt wird
-                if (window.datumHighlightLoaded) return;
-                window.datumHighlightLoaded = true;
+                // Prevent the script from being executed multiple times
+                if (window.dateHighlightLoaded) return;
+                window.dateHighlightLoaded = true;
                               
-                // Debug-Element anzeigen
+                // Show the debug element
                 function showDebugInfo() {
                     var debugDiv = document.createElement('div');
-                    debugDiv.id = 'datum-debug-panel';
+                    debugDiv.id = 'date-highlight-panel';
                     debugDiv.style.position = 'fixed';
                     debugDiv.style.bottom = '10px';
                     debugDiv.style.right = '10px';
@@ -58,10 +65,10 @@ class DatumHervorhebungPlugin extends Plugin {
                     debugDiv.style.fontFamily = 'monospace';
                     debugDiv.style.fontSize = '12px';
                     debugDiv.style.color = 'black';
-                    debugDiv.innerHTML = '<strong>Datum Hervorhebung aktiv</strong><div id="datum-debug-log"></div>';
+                    debugDiv.innerHTML = '<strong>Datum Highlight aktiv</strong><div id="date-highlight-log"></div>';
                     document.body.appendChild(debugDiv);
                     
-                    // Schließen-Button
+                    // Close button
                     var closeButton = document.createElement('button');
                     closeButton.innerHTML = 'X';
                     closeButton.style.position = 'absolute';
@@ -83,9 +90,9 @@ class DatumHervorhebungPlugin extends Plugin {
                     return debugDiv;
                 }
                 
-                // Helfer-Funktion zum Hinzufügen von Nachrichten zum Debug-Panel
+                // Helper function to add messages to the debug panel
                 function addDebugMessage(message) {
-                    var logDiv = document.getElementById('datum-debug-log');
+                    var logDiv = document.getElementById('date-highlight-log');
                     if (!logDiv) return;
                     
                     var entry = document.createElement('div');
@@ -96,20 +103,20 @@ class DatumHervorhebungPlugin extends Plugin {
                     logDiv.appendChild(entry);
                 }
                 
-                // Funktion zum Hervorheben von Datumsangaben
+                // Function to highlight dates
                 function highlightDatesInTickets() {
                     
-                    // Datumsregex für verschiedene Formate (DD.MM.YYYY, DD/MM/YYYY, etc.)
+                    // Date regex for different formats (DD.MM.YYYY, DD/MM/YYYY, etc.)
                     var dateRegex = /\b\d{1,2}[./-]\d{1,2}[./-]\d{2,4}\b/;
                     
-                    // CSS-Regel hinzufügen
+                    // Add CSS rule
                     var style = document.createElement('style');
-                    style.textContent = '.datum-highlight { color: {$color} !important; font-weight: bold !important; }';
+                    style.textContent = '.date-highlight { color: {$color} !important; font-weight: bold !important; }';
                     document.head.appendChild(style);
                     
-                    // Verschiedene Ansätze für die Ticketliste versuchen
+                    // Try different approaches for the ticket list
                     
-                    // 1. Direkte Suche nach Elementen mit Datumsangaben
+                    // 1. Direct search for elements with dates
                     var allElements = document.querySelectorAll('a, td, span, div');
                     
                     var found = 0;
@@ -117,27 +124,27 @@ class DatumHervorhebungPlugin extends Plugin {
                     for (var i = 0; i < allElements.length; i++) {
                         var el = allElements[i];
                         
-                        // Nur sichtbare Elemente mit Text prüfen
+                        // Check visible elements with text
                         if (el.textContent && 
                             el.textContent.trim().length > 0 && 
-                            el.offsetParent !== null) {  // Nur sichtbare Elemente
+                            el.offsetParent !== null) {  // Only visible elements
                             
                             if (dateRegex.test(el.textContent)) {
-                                // Element markieren
-                                el.classList.add('datum-highlight');
+                                // Mark the element
+                                el.classList.add('date-highlight');
                                 el.style.setProperty('color', '{$color}', 'important');
                                 el.style.setProperty('font-weight', 'bold', 'important');
                                 
-                                // Debug-Info
+                                // Debug info
                                 found++;
-                                if (found <= 10) { // Maximal 10 Elemente anzeigen
+                                if (found <= 10) { // Maximal 10 elements
                                     addDebugMessage(el.tagName + ": " + el.textContent.trim().substring(0, 50));
                                 }
                             }
                         }
                     }
                     
-                    // 2. Versuch: Speziell auf Tickettabelle abzielen
+                    // 2. Try: Focus on the ticket table
                     var ticketLinks = document.querySelectorAll('table.list a, table#tickets a, td.subject a');
                     
                     var tableFound = 0;
@@ -146,8 +153,8 @@ class DatumHervorhebungPlugin extends Plugin {
                         var link = ticketLinks[j];
                         
                         if (dateRegex.test(link.textContent)) {
-                            // Link markieren
-                            link.classList.add('datum-highlight');
+                            // Mark the link
+                            link.classList.add('date-highlight');
                             link.style.setProperty('color', '{$color}', 'important');
                             link.style.setProperty('font-weight', 'bold', 'important');
                             
@@ -155,29 +162,29 @@ class DatumHervorhebungPlugin extends Plugin {
                         }
                     }
                     
-                    // Statistik melden
+                    // Report statistics
                     var total = found + tableFound;
-                    addDebugMessage("Hervorgehoben: " + total + " Elemente");
+                    addDebugMessage("Highlighted: " + total + " elements");
                     
                     return total;
                 }
                 
-                // Hauptcode
+                // Main code
                 function init() {
-                    // Debug-Panel anzeigen
+                    // Show the debug panel
                     var debugPanel = showDebugInfo();
                     
-                    // Tickets hervorheben
+                    // Highlight tickets
                     setTimeout(function() {
                         var count = highlightDatesInTickets();
                         
-                        // Ergebnis anzeigen
+                        // Show the result
                         if (count === 0) {
-                            addDebugMessage("PROBLEM: Keine Elemente gefunden!");
+                            addDebugMessage("PROBLEM: No elements found!");
                             
-                            // HTML-Struktur analysieren und ausgeben
+                            // Analyze the HTML structure and output it
                             var tables = document.querySelectorAll('table');
-                            addDebugMessage("Tabellen gefunden: " + tables.length);
+                            addDebugMessage("Tables found: " + tables.length);
                             
                             for (var i = 0; i < Math.min(tables.length, 3); i++) {
                                 var table = tables[i];
@@ -188,11 +195,11 @@ class DatumHervorhebungPlugin extends Plugin {
                         }
                     }, 500);
                     
-                    // Alle 5 Sekunden erneut prüfen für dynamische Inhalte
+                    // Check every 5 seconds for dynamic content
                     setInterval(highlightDatesInTickets, 5000);
                 }
                 
-                // Warten, bis die Seite geladen ist
+                // Wait until the page is loaded
                 if (document.readyState === "loading") {
                     document.addEventListener("DOMContentLoaded", init);
                 } else {
