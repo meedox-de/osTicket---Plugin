@@ -53,13 +53,12 @@ class HighlighterPlugin extends Plugin {
                 window.dateHighlightLoaded = true;
                            
                 // Function to highlight dates
-                function highlightDatesInTickets() {
-                    
+                function highlightDatesInTickets() 
+                {
                     // Check if we are on the ticket list page
                     if (!window.location.pathname.includes('/scp/tickets.php')) {
                         return 0;
                     }
-                    
                     
                     // Extended regex for different date formats
                     // - DD.MM.YYYY or DD.MM.YY (German format)
@@ -87,7 +86,7 @@ class HighlighterPlugin extends Plugin {
                             el.textContent.trim().length > 0 && 
                             el.offsetParent !== null) {  // Only visible elements
                             
-                            var text = el.textContent.trim();s
+                            var text = el.textContent.trim();
                             
                             // Search for date formats in the text
                             var match = text.match(dateRegex);
